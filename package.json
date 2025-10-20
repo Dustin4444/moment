@@ -49,7 +49,7 @@
     "devDependencies": {
         "benchmark": "latest",
         "coveralls": "latest",
-        "cross-env": "^6.0.3",
+        "cross-env": "^10.0.0",
         "es6-promise": "latest",
         "eslint": "latest",
         "grunt": "latest",
